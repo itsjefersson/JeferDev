@@ -3,15 +3,15 @@
 <h3 align="center">Apasionado por el desarrollo, la innovación y el aprendizaje continuo.</h3>
 
 - 🔭Actualmente trabajo en
-www.suplos.com cómo jr fullstack developer.
+www.suplos.com cómo fullstack developer.
 
-- 🌱 Tambien estoy haciendo la ruta en Open Bootcamp de **Desarrollador fullstack** y varias rutas de desarrollo de software en **PLATZI**
+- 🌱 Estudio **Especialización en Estrategias de Inteligencia Artificial** y **Especialista en inteligencia artificial aplicada a la analitica de datos**.
 
-- 👯 He colaborado con www.soytuabogadohoy.com Y otras empresas.
+- 👯 He colaborado con soytuabogadohoy, HUB INNOVATION CARIBE SAS, KAM jurídica y otras empresas.
 
-- 🤝 Podemos colaborar en el desarrollo de **sistemas y paginas web**
+- 🤝 Podemos colaborar en el desarrollo de **Software** o **analisis de datos**
 
-- 👨‍💻 Estare subiendo algunos de mis proyectos en: [https://github.com/EngineerJef](https://github.com/EngineerJef)
+- 👨‍💻 Estare subiendo algunos de mis proyectos en: https://github.com/itsjefersson
 
 - 💬 Comentame sobre **tus ideas.**
 
@@ -19,7 +19,7 @@ www.suplos.com cómo jr fullstack developer.
 
 <h3 align="left">Conectate conmigo en</h3>
 <p align="left">
-<a href="https://twitter.com/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeferdev" height="30" width="40" /></a> <a href="https://linkedin.com/in/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeferdev" height="30" width="40" /></a> <a href="https://instagram.com/jeferdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeferdev" height="30" width="40" /></a-->
+<a href="https://linkedin.com/in/itsjefersson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeferdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
