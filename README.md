@@ -2,6 +2,13 @@
 <div align="center"> <a href="https://ibb.co/1bKczg9"><img src="https://i.ibb.co/V3D6w1v/portada-facebook.png" alt="portada-facebook" border="0"></a></div>
 <h3 align="center">Apasionado por el desarrollo, la innovación y el aprendizaje continuo.</h3>
 
+<p> Ing. de sistemas, apasionado por la innovación, investigación. Tengo como objetivo estar a la vanguardia de las tecnologías y la búsqueda de soluciones creativas.
+
+Analista y desarrollador de software.
+
+los datos son la materia prima más importante de cualquier empresa 
+¿Tu empresa si los aprovecha? </p>
+<br>
 - 🔭Actualmente trabajo en
 www.suplos.com cómo fullstack developer.
 
